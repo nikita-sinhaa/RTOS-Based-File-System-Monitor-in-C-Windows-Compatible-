@@ -65,5 +65,5 @@ RTOS_FileSystem_Monitor/
 ```
 
 ## 🧠 Author
-**Nikita Sinha** – M.S. in Electrical and Computer Engineering, Firmware Specialist  
-
+**Nikita Sinha** 
+🔧 Firmware & Embedded Systems | M.S. Electrical and Computer Engineering
