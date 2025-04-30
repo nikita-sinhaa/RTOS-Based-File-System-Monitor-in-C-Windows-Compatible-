@@ -1,4 +1,4 @@
-# RTOS-Based-File-System-Monitor-in-C
+# RTOS Based File System Monitor in C
 
 ## 🔍 Overview
 This project simulates a real-time operating system (RTOS) behavior using C programming for Windows environments. It mimics a firmware-level system reacting to real-world events—here, file system changes. It uses WinAPI and multithreading to create concurrent tasks similar to embedded RTOS threads.
